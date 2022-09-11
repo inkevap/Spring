@@ -1,3 +1,5 @@
 # Ignoramos los siguientes archivos
-.vscode
+/.vscode
 /Spring_resources
+.idea 
+Target
