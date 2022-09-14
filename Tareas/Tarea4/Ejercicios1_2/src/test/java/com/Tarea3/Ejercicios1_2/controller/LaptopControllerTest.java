@@ -1,6 +1,6 @@
-package com.Tarea3.Ejercicios1_2_3.controller;
+package com.Tarea3.Ejercicios1_2.controller;
 
-import com.Tarea3.Ejercicios1_2_3.entities.Laptop;
+import com.Tarea3.Ejercicios1_2.entities.Laptop;
 import org.junit.jupiter.api.BeforeEach;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
