@@ -1,7 +1,7 @@
-package com.Tarea3.Ejercicios1_2_3.controller;
+package com.Tarea3.Ejercicios1_2.controller;
 
-import com.Tarea3.Ejercicios1_2_3.entities.Laptop;
-import com.Tarea3.Ejercicios1_2_3.repository.LaptopRepository;
+import com.Tarea3.Ejercicios1_2.entities.Laptop;
+import com.Tarea3.Ejercicios1_2.repository.LaptopRepository;
 import io.swagger.annotations.ApiOperation;
 import org.slf4j.Logger;
 import org.slf4j.LoggerFactory;

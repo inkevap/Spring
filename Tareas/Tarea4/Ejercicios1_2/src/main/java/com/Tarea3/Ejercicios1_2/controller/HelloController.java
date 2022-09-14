@@ -1,4 +1,4 @@
-package com.Tarea3.Ejercicios1_2_3.controller;
+package com.Tarea3.Ejercicios1_2.controller;
 
 import org.springframework.beans.factory.annotation.Value;
 import org.springframework.web.bind.annotation.GetMapping;

@@ -1,4 +1,4 @@
-package com.Tarea3.Ejercicios1_2_3.entities;
+package com.Tarea3.Ejercicios1_2.entities;
 
 import javax.persistence.*;
 

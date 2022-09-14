@@ -1,8 +1,8 @@
 
-package com.Tarea3.Ejercicios1_2_3;
+package com.Tarea3.Ejercicios1_2;
 
-import com.Tarea3.Ejercicios1_2_3.entities.Laptop;
-import com.Tarea3.Ejercicios1_2_3.repository.LaptopRepository;
+import com.Tarea3.Ejercicios1_2.entities.Laptop;
+import com.Tarea3.Ejercicios1_2.repository.LaptopRepository;
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.context.ApplicationContext;
